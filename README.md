@@ -1,0 +1,3 @@
+small but functional and productive project to put into practice rendering of Users through connections to the backend which makes calls to an api https://dummyjson.com/users which brings several users with their respective fields such as name, email, gender, address , etc. Filters, sorts and search tools are configured from the backend, not from specific points of the API. The most valuable function of the mini project is to implement filters, sorts and search for users and their various parameters in conjunction.
+
+video de paso a paso : https://www.youtube.com/watch?v=xRBE4iKX0yw&t=1863s
